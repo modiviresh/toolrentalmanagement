@@ -8,6 +8,7 @@ public class ToolrentalmanagementApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ToolrentalmanagementApplication.class, args);
+		System.out.println("Application started");
 	}
 
 }
